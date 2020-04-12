@@ -36,7 +36,8 @@ c) Elle çizdiğiniz grafik orijinden geçmiyor.  *x=0* iken *y=0* değil. *x=0*
 **Cevap: Eğimi -687,5 N/m buldum. Videoda bulunan değer ise -640N/m.**
 5. Şimdi [bu adresteki] (https://www.rit.edu/cos/livephoto/LPVideos/projectiles/) sayfanın *en altındaki* videoya (tartılı video) gidin. Bu videoyu seyrederek 4-5 değer alınız. Aşağıdaki tabloya bu değerleri işleyiniz:
 
-|Kuvvet (N) | Uzanım (m)
+|Kuvvet (N) | Uzanım (m)|
+|-----------|-----------|
 |   1,59    | 0,004    |
 |   3,48    | 0,009    |
 |   6,19    | 0,016    |
