@@ -24,6 +24,7 @@ b) [Google Sheet](https://docs.google.com/spreadsheets/d/1bisKMNywxr-SMfI6ju_TQ8
 
 c) Elle çizdiğiniz grafik orijinden geçmiyor.  *x=0* iken *y=0* değil. *x=0* iken *y* nedir? Sizce neden orjinden geçmiyor?
 **Cevap: Yaydan kaynaklı bir sapma olabilir.**
+![20200412_181537](https://user-images.githubusercontent.com/62939091/79077180-358f1000-7d08-11ea-91a7-846a5068cced.jpg)
 
 
 
